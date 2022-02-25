@@ -1,8 +1,8 @@
 # RandomUserList Test
--- creater: Mengzhe Liu. 
+-- creater: Mengzhe Liu  
 ## introductions:
-  tech stacks: React, Next, Antd. 
-  functions: load new users, filter on gender
+  tech stacks: React, Next, Antd  
+  functions: load new users, filter on gender  
 
 ## Command:
  -- set up packages: npm i  
